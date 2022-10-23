@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1666259149 source:c:\users\ayoub\codeblocks-c\tp3_threads_sémaphores\main.c
+	"jeu.h"
+
+1666246873 c:\users\ayoub\codeblocks-c\tp3_threads_sémaphores\jeu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<pthread.h>
+	<windows.h>
+	<conio.h>
+
+1666258720 source:c:\users\ayoub\codeblocks-c\tp3_threads_sémaphores\utilitaires.c
+	"jeu.h"
+
