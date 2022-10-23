@@ -73,7 +73,7 @@ void afficher_plateau(star_t star) {
  * en évitant les ases obstacles.
  */
 void placer_star(star_t *star) {
-    int m = star->colonnes;
+    	int m = star->colonnes;
 	int n = star->lignes;
 	int a_aleat , b_aleat;
 	a_aleat=rand()%n;
